@@ -27,3 +27,6 @@ item_category_name - name of item category
 This dataset is permitted to be used for any purpose, including commercial use.
 
 expand_less
+
+
+All Data sets can be downloaded from this kaggle location - https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data
